@@ -6,7 +6,6 @@ g++ P1.cpp board2.cpp
 
 ## User Manual
 
-Please provide the user manual on how to use your program.
 -The user are allowed to change the row and the column of the game board.
 -The user can change the number of zombies generated on the game board.
 -The user can save the game files and load it at any time of the game.
